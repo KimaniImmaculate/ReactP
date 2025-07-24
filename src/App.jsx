@@ -11,7 +11,7 @@ function App() {
 
       <MovieCard movie={{
         title: "Inception",
-        release_date: "2029",
+        release_date: "2030",
       }} />
     </>
   );
